@@ -1,0 +1,50 @@
+/* fonts.css - 所有字体定义文件 */
+
+@font-face {
+    font-family: 'CooperKai';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/CooperZhengKai-1.49.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FangZhengKai';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/FangZhengKaiTiJianTi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ZhuqueFangSong';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/ZhuqueFangsong-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DingLieSong';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/dingliesongketi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HuaFangSong';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/huafangsong.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WenDing';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/wending.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YiPengLinHe';
+    src: url('https://cdn.jsdelivr.net/gh/kk-597/fonts/yipenglinhe.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
